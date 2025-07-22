@@ -1,9 +1,9 @@
 # Warden Protocol BOT
 Warden Protocol BOT
 
-- Register Here : [Warden Protocol](https://app.wardenprotocol.org/referral?code=CF273)
+- Register Here : [Warden Protocol](https://app.wardenprotocol.org/referral?code=6BYRL)
 - Sign Up With New EVM Wallet
-- Use Code `CF273`
+- Use Code `6BYRL`
 
 ## Features
 
@@ -25,10 +25,10 @@ Warden Protocol BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/WardenProtocol-BOT.git
+   git clone https://github.com/itsmesatyavir/WardenProtocol.git
    ```
    ```bash
-   cd WardenProtocol-BOT
+   cd WardenProtocol
    ```
 
 2. **Install Requirements:**
@@ -71,7 +71,7 @@ Warden Protocol BOT
 python bot.py #or python3 bot.py
 ```
 
-## Buy Me a Coffee
+## Buy Me a Coffee (VONSSY)
 
 - **EVM:** 0xe3c9ef9a39e9eb0582e5b147026cae524338521a
 - **TON:** UQBEFv58DC4FUrGqinBB5PAQS7TzXSm5c1Fn6nkiet8kmehB
@@ -81,4 +81,6 @@ python bot.py #or python3 bot.py
 Thank you for visiting this repository, don't forget to contribute in the form of follows and stars.
 If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an *issue* in this GitHub repository.
 
-**vonssy**
+**Code Reshared By FORESTARMY**
+
+**THANK YOU**
