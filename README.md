@@ -68,7 +68,7 @@ Warden Protocol BOT
 ## Run
 
 ```bash
-python bot.py #or python3 bot.py
+python main.py #or python3 main.py
 ```
 
 ## Buy Me a Coffee (VONSSY)
