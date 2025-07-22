@@ -60,7 +60,7 @@ class Warden:
         {Fore.GREEN + Style.BRIGHT}Auto BOT {Fore.BLUE + Style.BRIGHT}Warden Protocol
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Rey? {Fore.YELLOW + Style.BRIGHT}<INI WATERMARK>
+        {Fore.GREEN + Style.BRIGHT}Join:- https://t.me/forestarmy  {Fore.YELLOW + Style.BRIGHT} THANK YOU
             """
         )
 
